@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[KevinAllen]]></title>
         <description><![CDATA[KevinAllen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kevinallen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 Nov 2015 06:38:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 Nov 2015 06:39:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kevinallen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://p01.lacasting.com/photos/4/L/2/505924-57.jpg?20130909154734770">]]></description>
+            <link>http://talent.lacasting.com/Common/Resume.aspx</link>
+            <guid isPermaLink="false">353704a7-74bb-4b7e-9129-ad3cf392ff3a</guid>
+            <pubDate>Sun, 29 Nov 2015 06:38:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://p01.lacasting.com/photos/4/L/2/505924-53.jpg?20130909154734730">]]></description>
-            <link>undefined098d90ee-444d-4a77-a3a2-fa888e12030e/index.html</link>
+            <link>https://thegrid.ai/kevinallen/098d90ee-444d-4a77-a3a2-fa888e12030e/index.html</link>
             <guid isPermaLink="false">098d90ee-444d-4a77-a3a2-fa888e12030e</guid>
             <pubDate>Sun, 29 Nov 2015 06:38:22 GMT</pubDate>
         </item>
