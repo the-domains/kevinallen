@@ -17,8 +17,8 @@ keywords:
   - independent
   - numb
 description: ''
-datePublished: '2016-02-22T04:40:25.933Z'
-dateModified: '2016-02-22T04:40:23.494Z'
+datePublished: '2016-02-22T04:43:00.648Z'
+dateModified: '2016-02-22T04:41:15.208Z'
 author:
   - name: Kevin Allen
     url: 'http://vimeo.com/kevinallen'
