@@ -17,8 +17,8 @@ keywords:
   - smooth
   - lesson
 description: ''
-datePublished: '2016-02-22T04:38:44.182Z'
-dateModified: '2016-02-22T02:21:38.497Z'
+datePublished: '2016-02-22T04:42:46.829Z'
+dateModified: '2016-02-22T04:42:45.772Z'
 author:
   - name: Kevin Allen
     url: 'http://vimeo.com/kevinallen'
