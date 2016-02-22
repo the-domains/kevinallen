@@ -17,8 +17,8 @@ keywords:
   - smooth
   - lesson
 description: ''
-datePublished: '2016-02-22T02:21:30.148Z'
-dateModified: '2016-02-21T06:49:10.865Z'
+datePublished: '2016-02-22T04:38:44.182Z'
+dateModified: '2016-02-22T02:21:38.497Z'
 author:
   - name: Kevin Allen
     url: 'http://vimeo.com/kevinallen'
@@ -51,7 +51,7 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-title: "Kevin Allen's Commercial Reel"
+title: ''
 sourcePath: _posts/2016-02-21-kevin-allens-commercial-reel.md
 published: true
 authors: []
