@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Kevin Allen
-    url: 'http://vimeo.com/kevinallen'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/151673743'
+inLanguage: en
+starred: false
 keywords:
   - banda-sil
   - buttery
@@ -20,8 +16,14 @@ keywords:
   - compression
   - smooth
   - lesson
-description: "Clips include: Vivo's \"X5Max\", BANDA-SiL's \"Wound Care Through Time\", and Apploi's \"Hiring Clearly\"."
-inLanguage: en
+description: ''
+datePublished: '2016-02-22T02:21:30.148Z'
+dateModified: '2016-02-21T06:49:10.865Z'
+author:
+  - name: Kevin Allen
+    url: 'http://vimeo.com/kevinallen'
+    avatar: {}
+related: []
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/151673743'
     type: ios
@@ -49,15 +51,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/151673743'
 title: "Kevin Allen's Commercial Reel"
-datePublished: '2016-02-21T06:48:31.590Z'
-dateModified: '2016-02-21T06:46:12.549Z'
 sourcePath: _posts/2016-02-21-kevin-allens-commercial-reel.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
