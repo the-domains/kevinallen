@@ -16,9 +16,9 @@ keywords:
   - nickelodeon
   - independent
   - numb
-description: "Clips include: Nickelodeon's hit series \"Henry Danger\", Independent web-series \"The New Adventures of Pinkgirl and the Scone\" SyFy Original \"Moby Dick\", and independent film \"Numb\"."
-datePublished: '2016-02-22T02:22:15.112Z'
-dateModified: '2016-02-21T23:04:22.462Z'
+description: ''
+datePublished: '2016-02-22T04:40:25.933Z'
+dateModified: '2016-02-22T04:40:23.494Z'
 author:
   - name: Kevin Allen
     url: 'http://vimeo.com/kevinallen'
@@ -51,7 +51,7 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-title: "Kevin Allen's Performance Reel"
+title: ''
 sourcePath: _posts/2016-02-21-kevin-allens-performance-reel.md
 published: true
 authors: []
