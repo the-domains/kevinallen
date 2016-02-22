@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/151349705'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - b-roll
   - pizzazz
@@ -17,8 +17,8 @@ keywords:
   - independent
   - numb
 description: "Clips include: Nickelodeon's hit series \"Henry Danger\", Independent web-series \"The New Adventures of Pinkgirl and the Scone\" SyFy Original \"Moby Dick\", and independent film \"Numb\"."
-datePublished: '2016-02-21T06:15:09.744Z'
-dateModified: '2016-02-21T06:14:19.085Z'
+datePublished: '2016-02-22T02:22:15.112Z'
+dateModified: '2016-02-21T23:04:22.462Z'
 author:
   - name: Kevin Allen
     url: 'http://vimeo.com/kevinallen'
@@ -52,14 +52,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: "Kevin Allen's Performance Reel"
+sourcePath: _posts/2016-02-21-kevin-allens-performance-reel.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-02-21-kevin-allens-performance-reel.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
