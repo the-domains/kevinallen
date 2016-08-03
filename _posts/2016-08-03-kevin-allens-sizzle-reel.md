@@ -64,11 +64,11 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Ko1xsC1TEX4'
 title: Kevin Allen's Sizzle Reel
-datePublished: '2016-08-03T19:40:10.897Z'
-dateModified: '2016-08-03T19:38:32.368Z'
+datePublished: '2016-08-03T19:41:43.611Z'
+dateModified: '2016-08-03T19:41:43.131Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-03-kevin-allens-sizzle-reel.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
