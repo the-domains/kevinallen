@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T19:22:50.830Z'
+datePublished: '2016-08-03T19:43:06.280Z'
 sourcePath: _posts/2016-02-21-kevin-allens-performance-reel.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/151349705'
@@ -21,7 +21,7 @@ author:
   - name: ''
     url: 'http://vimeo.com/kevinallen'
     avatar: {}
-dateModified: '2016-08-03T19:22:49.849Z'
+dateModified: '2016-08-03T19:43:05.909Z'
 title: Kevin Allen's Performance Reel
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/151349705'
@@ -50,16 +50,12 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-publisher:
-  name: ''
-  domain: vimeo.com
-  url: 'https://vimeo.com/'
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+publisher: {}
 description: ''
 inLanguage: en
 inNav: false
 via: {}
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: VideoObject
 
